@@ -21,6 +21,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sud1413/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sud1413/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
 |  |
 | ------- |
