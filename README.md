@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sud1413/LeetCode/tree/master/0001-two-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Sud1413/LeetCode/tree/master/1656-count-good-triplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sud1413/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sud1413/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -17,6 +18,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sud1413/LeetCode/tree/master/0001-two-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sud1413/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sud1413/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sud1413/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -47,4 +49,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sud1413/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
