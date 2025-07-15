@@ -37,6 +37,7 @@ Leetcode solutions
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sud1413/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Sud1413/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Sud1413/LeetCode/tree/master/3396-valid-word) |
 ## Simulation
 |  |
 | ------- |
