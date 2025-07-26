@@ -14,6 +14,7 @@ Leetcode solutions
 | [3194-find-words-containing-character](https://github.com/Sud1413/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sud1413/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sud1413/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sud1413/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Leetcode solutions
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sud1413/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sud1413/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sud1413/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sud1413/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sud1413/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
