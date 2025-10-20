@@ -9,6 +9,7 @@ Leetcode solutions
 | [0001-two-sum](https://github.com/Sud1413/LeetCode/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Sud1413/LeetCode/tree/master/1656-count-good-triplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sud1413/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sud1413/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sud1413/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3194-find-words-containing-character](https://github.com/Sud1413/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -40,12 +41,14 @@ Leetcode solutions
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sud1413/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sud1413/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sud1413/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Sud1413/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Sud1413/LeetCode/tree/master/3396-valid-word) |
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sud1413/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sud1413/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sorting
 |  |
