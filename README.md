@@ -32,6 +32,7 @@ Leetcode solutions
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sud1413/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sud1413/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sud1413/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,11 +46,13 @@ Leetcode solutions
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sud1413/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Sud1413/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Sud1413/LeetCode/tree/master/3396-valid-word) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sud1413/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sud1413/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sud1413/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sud1413/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +70,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sud1413/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sud1413/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sud1413/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
