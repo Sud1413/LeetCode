@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sud1413/LeetCode/tree/master/0001-two-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sud1413/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sud1413/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Sud1413/LeetCode/tree/master/1656-count-good-triplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sud1413/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -89,5 +90,6 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sud1413/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sud1413/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
