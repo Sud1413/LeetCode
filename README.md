@@ -37,6 +37,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sud1413/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2998-count-symmetric-integers](https://github.com/Sud1413/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sud1413/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sud1413/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
